@@ -1,11 +1,8 @@
-# Trajetória Python 🐍
-
+## Trajetória Python 🐍
 Repositório criado para documentar minha jornada aprendendo Python do zero.
 
 ## 📁 Projetos
 
-| Projeto | Descrição |
-|--------|-----------|
 | [hello-world](./hello-world) | Primeiro programa em Python |
 
 ## 🛠️ Tecnologias
